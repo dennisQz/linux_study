@@ -4,4 +4,6 @@
 
 > [查看进程，内存，cpu, 网络信息](https://github.com/dennisQz/linux_study/blob/master/process_memory_network.md "查看进程，内存，cpu，网络等")
 
+> [linux文件&目录基本操作](https://github.com/dennisQz/linux_study/blob/master/file_operations.md "linux文件&目录基本操作")
+
 
